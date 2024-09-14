@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "netfilter_checksni.h": "c",
+        "netfilter_ipv4.h": "c",
+        "error_codes.h": "c",
+        "common.h": "c",
+        "tcp.h": "c",
+        "netfilter.h": "c",
+        "module.h": "c"
+    }
+}
